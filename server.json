@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "value": 50,
       "createdAt": "2022-07-24T14:03:25.505Z"
+    },
+    {
+      "description": "Cabelo",
+      "value": 15,
+      "category": "Higiene",
+      "type": "outcome",
+      "createdAt": "2023-02-16T01:02:52.548Z",
+      "id": 3
     }
   ]
 }
